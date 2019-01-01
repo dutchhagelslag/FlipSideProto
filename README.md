@@ -1,2 +1,2 @@
 # FlipSideProto
-Platformer puzzle made in unity
+Minimalist platformer puzzle game 
