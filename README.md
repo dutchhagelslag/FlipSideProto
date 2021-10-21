@@ -1,2 +1,2 @@
 # FlipSideProto
-Minimalist platformer puzzle game (reupload)
+Minimalist platformer puzzle game binary(reupload)
